@@ -1,0 +1,46 @@
+﻿  SlotMachine.cpp
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\Slots.h(114,19): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\Mouse.h(31,96): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\Mouse.h(31,76): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\Mouse.h(36,100): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\Mouse.h(36,80): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\SlotMachine.cpp(237,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\TuF\Desktop\Programs\C++\SlotMachine\SlotMachine\SlotMachine.cpp(238,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  101 of 553 functions (18.3%) were compiled, the rest were copied from previous compilation.
+    51 functions were new in current compilation
+    64 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SlotMachine.vcxproj -> C:\Users\TuF\Desktop\Programs\C++\SlotMachine\x64\Release\SlotMachine.exe
